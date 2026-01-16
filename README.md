@@ -61,7 +61,10 @@ El sistema final implementa un pipeline modular optimizado para **tiempo real**:
 * `ProyectoFinal.ipynb`: Cuaderno con el pipeline de ingeniería de datos, entrenamiento y validación.
 * `Memoria_Tecnica.pdf`: Documentación detallada con el marco teórico y análisis científico.
 * `video_demo.mp4`: Demostración del sistema en funcionamiento real.
-
+* `demo_gestos.py`: MediaPipe+ResNet18
+* `demo_yolo.py`: YOLOv8 nano+ResNet18
+* `demo_gestos_nocrop.py`: ConvNext Tiny con imagenes completas
+**Los modelos para probar las demos se pueden descargar en**: https://drive.google.com/file/d/1E4KEBXoFKHbPzPg1Jlvz9tyIE4c3dFhO/view?usp=drive_link
 ---
 
 ## 👥 Autores
